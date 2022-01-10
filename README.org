@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       42133DDE-EB4D-440F-9D72-6ECAE1DCFE38
+:END:
+#+title: test-for-org-roam
+#+category: test-for-org-roam
+#+filetags: Project
+* Goals
+
+
+
+* Tasks
+
+** TODO Add initial tasks
+
+* Dates
+
+* Journals
+
+* MEMO
